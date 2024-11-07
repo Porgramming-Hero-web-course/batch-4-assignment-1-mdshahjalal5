@@ -15,5 +15,6 @@ const updateProfile = (
   return updated;
 };
 
-const myProfile = { name: "sj", age: 20, email: "sj@.com" };
+// Sample Input
+const myProfile = { name: "Alice", age: 20, email: "alice@example.com" };
 console.log(updateProfile(myProfile, { age: 36 }));

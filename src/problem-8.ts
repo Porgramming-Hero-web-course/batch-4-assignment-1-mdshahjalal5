@@ -6,12 +6,14 @@ function validateKeys<T extends object>(obj: T, keys: (keyof T)[]): boolean {
       return false;
     }
   }
+
   return true;
 }
+
 const check = {
   name: "sha",
   age: 3,
 };
 
 const reschk = validateKeys(check, ["age"]);
-console.log(reschk, "[1;31mreschk in problem-8.ts at line 15[0m");
+console.log(reschk, "[1;31mreschk in problem-8.ts at line 19[0m");

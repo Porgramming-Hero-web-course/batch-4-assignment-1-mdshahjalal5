@@ -1,3 +1,5 @@
+//w: 07/11/2024 04:15 PM Thu GMT+6 Sharifpur, Gazipur, Dhaka
+//! problem-6
 interface Profile {
   name: string;
   age: number;

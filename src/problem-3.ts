@@ -10,7 +10,7 @@ const countWordOccurrences: CountOccurrence = function (
   const sentencedLowerd: string = sentence.toLowerCase();
   const wordLowerd: string = word.toLowerCase();
 
-  const words = sentencedLowerd.split(/\W+/);
+  const words = sentencedLowerd.split(" ");
   let count = 0;
 
   words.forEach((w) => {

@@ -23,7 +23,7 @@ const countWordOccurrences: CountOccurrence = function (
 };
 
 const result = countWordOccurrences(
-  "we love our country Bangladesh. As a country& we love it. so we live in a country.",
+  "we love our country Bangladesh. As a country we love it. so we live in a country ",
   "country",
 );
-console.log(result, "result"); // Output: 4
+console.log(result, "result");

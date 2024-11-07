@@ -8,7 +8,7 @@ class Car {
     this.model = model;
     this.year = year;
   }
-  getCarAge() {
+  getCarAge(): number {
     return 2024 - this.year;
   }
 }

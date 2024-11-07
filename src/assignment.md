@@ -163,4 +163,3 @@ _Note:You will have to choose any **one** blog topic_
 - 60 marks: Nov 8, 2024, 11:59 PM
 - 50 marks: Nov 9, 2024, 11:59 PM
 - 30 marks: After Nov 9, 11.59 PM
-- 30 marks: After Nov 9, 11.59 PM

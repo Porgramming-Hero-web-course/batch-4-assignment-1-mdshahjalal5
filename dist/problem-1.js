@@ -7,4 +7,4 @@ const sumArray = (nums) => {
     return sum;
 };
 const sum = sumArray([2, 8, 4, 3, 2, 6, 10, 3, 9, 3, 8]);
-console.log(sum, "[1;31msum in problem-1.ts at line 25[0m"); //! 20
+console.log(sum, "[1;31msum in problem-1.ts at line 25[0m"); //! 58
